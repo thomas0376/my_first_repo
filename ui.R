@@ -10,9 +10,7 @@ shiny::fluidPage(
       plotOutput("plot"),
       tableOutput("table")
     )
-    
   )
-  
 )
 
 
